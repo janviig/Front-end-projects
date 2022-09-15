@@ -1,0 +1,78 @@
+
+
+.loginHead
+{
+    color: darkcyan;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: auto;
+    padding: 10px;
+    position: absolute; left: 35%;
+}
+
+.emailDetails
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:35%; top: 80px;
+}
+.emailDetails input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.passwordDetails
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:35%; top: 160px;
+}
+.passwordDetails input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 4px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.sign button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    position: absolute; left: 38%; top:240px;
+    text-align: center;
+    width: 20%;
+}
+
+.signup button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    position: absolute; left:38%; top: 275px;
+    text-align: center;
+    width: 20%;
+}
+
+.go button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    position: absolute; left:38%; top: 315px;
+    text-align: center;
+    width: 20%;
+}
