@@ -3,7 +3,7 @@
 This repo consists of multiple projects done through React Frameworks:
 Folders can be described as:
 
-- website: first website I created, and creating a responsive image gallery, learning html and css
+- **website**: first website I created, and creating a responsive image gallery, learning html and css
 
 - email: learning api's to set up a subscribe email function, first node project
 
