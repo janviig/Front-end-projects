@@ -1,4 +1,4 @@
-# front end projects
+# Front end projects
 
 This repo consists of multiple projects done through React Frameworks:
 Folders can be described as:
