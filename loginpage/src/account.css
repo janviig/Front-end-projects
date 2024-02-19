@@ -1,0 +1,129 @@
+
+.title
+{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    width: 100%;
+    position: absolute; left: 10px;
+    background-color: white;
+}
+
+/* first name entry */
+
+.name
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:10px; top: 80px;
+}
+.name input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.surname
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:10px; top: 160px;
+}
+.surname input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.email
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:10px; top: 245px;
+}
+.email input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.password
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:10px; top: 330px;
+}
+.password input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.confirm
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    font-size: 20px;
+    position:absolute; left:10px; top: 415px;
+}
+.confirm input
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 245px;
+    background-color: rgb(211, 244, 244);
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+}
+
+.create button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    position: absolute; left: 10px; top:500px;
+    text-align: center;
+    width: 25%;
+}
+
+.main button
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    position: absolute; left: 10px; top: 550px;
+    text-align: center;
+    width: 25%;
+} 
+
+
